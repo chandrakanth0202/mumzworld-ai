@@ -1,4 +1,4 @@
-# MomsVerdict AI
+# MomzVerdict AI
 
 ### AI-powered product review summarization for Mumzworld
 
